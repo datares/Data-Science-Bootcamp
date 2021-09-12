@@ -1,2 +1,3 @@
-# Data-Science-Bootcamp
-DataRes UCLA Data Science Bootcamp September 2021
+# Data Science Bootcamp
+## Hosted by DataRes at UCLA
+September 2021
